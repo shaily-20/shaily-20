@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shaily</h1>
 <h3 align="center">A passionate 3rd-year B.tech student in Computer science</h3>
 
-<img aling="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F782641241475969539%2F&psig=AOvVaw0pHF-5MYNPUHXH7Ri9uX8c&ust=1718363403262000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODLn9W42IYDFQAAAAAdAAAAABAJ">
 
 - 📫 How to reach me **ptlshailyanil@gmail.com**
 
