@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaily</h1>
-<h3 align="center">A passionate 3rd-year B.tech student in Computer science</h3>
+<h3 align="center">A passionate Final year B.tech student in Computer science</h3>
 
 
 - 📫 How to reach me **ptlshailyanil@gmail.com**
